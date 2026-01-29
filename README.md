@@ -1,5 +1,7 @@
 # Movie Seat Booking #
 
+https://estelle1823.github.io/Movie-seat-booking/
+
 Detta projekt är ett system för bokning av biostolar med JavaScript. Sidan är statisk och använder Movie-klassen för att dynamiskt skapa `<select>`-menyn med filmer.  
 
 # Funktioner #
